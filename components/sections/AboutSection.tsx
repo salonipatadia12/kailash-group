@@ -131,7 +131,7 @@ export function AboutSection() {
           </div>
 
           {/* WhatsApp CTA */}
-          <div
+          {/* <div
             className="mt-10 pt-6"
             style={{ borderTop: '1px solid #f3f4f6' }}
           >
@@ -146,7 +146,7 @@ export function AboutSection() {
               <MessageCircle className="h-4 w-4 shrink-0" aria-hidden="true" />
               Chat on WhatsApp
             </a>
-          </div>
+          </div> */}
         </div>
 
       </div>
