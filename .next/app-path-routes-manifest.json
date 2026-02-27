@@ -1,0 +1,15 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/api/contact/route": "/api/contact",
+  "/capabilities/page": "/capabilities",
+  "/contact/page": "/contact",
+  "/favicon.ico/route": "/favicon.ico",
+  "/industries/page": "/industries",
+  "/page": "/",
+  "/products/[slug]/page": "/products/[slug]",
+  "/products/page": "/products",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml"
+}

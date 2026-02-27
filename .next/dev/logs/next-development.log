@@ -1,0 +1,128 @@
+[00:00:00.734] Server  LOG     ✓ Ready in 581ms
+[00:10:11.099] Server  LOG     ✓ Compiled in 177ms
+[00:11:05.899] Server  LOG     ✓ Compiled in 156ms
+[00:14:55.940] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[00:14:55.940] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[00:14:55.940] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[00:14:55.940] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[00:29:05.358] Server  LOG     ✓ Compiled in 59ms
+[00:29:47.036] Server  LOG     ✓ Compiled in 56ms
+[00:30:49.653] Server  LOG     ✓ Compiled in 103ms
+[00:45:42.100] Server  LOG     ✓ Compiled in 57ms
+[00:45:56.564] Server  LOG     ✓ Compiled in 103ms
+[00:46:11.236] Server  LOG     ✓ Compiled in 30ms
+[00:47:12.403] Server  LOG     ✓ Compiled in 66ms
+[00:47:54.389] Server  LOG     ✓ Compiled in 192ms
+[00:48:24.576] Server  LOG     ✓ Compiled in 112ms
+[00:48:44.212] Server  LOG     ✓ Compiled in 16ms
+[00:48:47.936] Server  LOG     ✓ Compiled in 104ms
+[08:57:42.402] Server  LOG     ✓ Compiled in 129ms
+[08:58:07.795] Server  LOG     ✓ Compiled in 52ms
+[08:58:12.685] Server  LOG     ✓ Compiled in 16ms
+[08:58:19.039] Server  LOG     ✓ Compiled in 17ms
+[08:59:06.089] Server  LOG     ✓ Compiled in 125ms
+[08:59:31.018] Server  LOG     ✓ Compiled in 266ms
+[08:59:50.814] Server  LOG     ✓ Compiled in 80ms
+[09:00:23.912] Server  LOG     ✓ Compiled in 206ms
+[09:00:49.568] Server  LOG     ✓ Compiled in 66ms
+[09:01:52.211] Server  LOG     ✓ Compiled in 194ms
+[19:32:12.433] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[19:32:12.441] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[19:32:12.442] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[19:32:12.480] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[19:32:12.485] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[19:32:12.486] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[19:32:12.487] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[19:32:12.487] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[19:32:12.487] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[19:32:12.549] Browser ERROR   uncaughtError: ReferenceError: Can't find variable: isTransparent
+[19:32:12.549] Browser ERROR   uncaughtError: ReferenceError: Can't find variable: isTransparent
+[19:32:12.549] Browser ERROR   uncaughtError: ReferenceError: Can't find variable: isTransparent
+[19:32:13.085] Browser ERROR   unhandledRejection: undefined
+[19:32:13.085] Browser ERROR   unhandledRejection: undefined
+[19:32:13.085] Browser ERROR   unhandledRejection: undefined
+[19:32:13.085] Browser ERROR   unhandledRejection: undefined
+[19:32:13.085] Browser ERROR   unhandledRejection: undefined
+[19:43:20.951] Server  LOG     ✓ Compiled in 183ms
+[19:46:00.703] Server  LOG     ✓ Compiled in 247ms
+[19:46:00.926] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[19:46:01.564] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:46:01.564] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:46:01.564] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:46:01.564] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:46:01.564] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:46:01.564] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:46:01.564] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:46:01.564] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:46:01.564] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:46:31.884] Server  LOG     ✓ Compiled in 68ms
+[19:47:43.338] Server  LOG     ✓ Compiled in 54ms
+[19:48:31.235] Server  LOG     ✓ Compiled in 101ms
+[19:48:56.388] Server  LOG     ✓ Compiled in 51ms
+[19:49:13.408] Server  LOG     ✓ Compiled in 63ms
+[19:49:33.742] Server  LOG     ✓ Compiled in 162ms
+[19:50:58.944] Server  LOG     ✓ Compiled in 214ms
+[19:53:05.032] Server  LOG     ✓ Compiled in 137ms
+[19:55:43.008] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[19:55:43.093] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[19:55:43.093] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[19:55:43.094] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[19:55:43.094] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[19:55:43.094] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[19:55:43.094] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[19:55:43.278] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/contact. Falling back to browser navigation. {}
+[20:04:24.504] Server  LOG     ✓ Compiled in 55ms
+[20:04:29.232] Server  LOG     ✓ Compiled in 15ms
+[20:04:54.672] Server  LOG     ✓ Compiled in 77ms
+[20:05:05.489] Server  LOG     ✓ Compiled in 24ms
+[20:05:10.991] Server  LOG     ✓ Compiled in 128ms

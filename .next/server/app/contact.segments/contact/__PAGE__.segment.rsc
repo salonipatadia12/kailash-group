@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[68050,["/_next/static/chunks/e80256ca6e1ba159.js","/_next/static/chunks/44d7ce95028f3113.js","/_next/static/chunks/1f7447b5e4ef7eb0.js","/_next/static/chunks/67705374371c6109.js","/_next/static/chunks/1346ccd8601a9593.js","/_next/static/chunks/9193f1a661dcae8e.js"],"ContactSection"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"2jlnMvpjb6CfyuwzmPTRM","rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"py-12 text-center","style":{"backgroundColor":"#061553"},"children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold text-white","style":{"fontFamily":"var(--font-heading)"},"children":"Contact Us"}],["$","p",null,{"className":"mt-2 text-base","style":{"color":"rgba(255,255,255,0.70)"},"children":"We'd love to hear from you"}]]}],["$","$L2",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/67705374371c6109.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/1346ccd8601a9593.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/9193f1a661dcae8e.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
